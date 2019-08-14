@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955bbce38d0a3439aa07ab86c29f8d01, type: 3}
+  m_Name: Key
+  m_EditorClassIdentifier: 
+  mySprite: {fileID: 21300000, guid: 7a1105c56d4ee449a8b9fd10591fd9b0, type: 3}
+  myName: Small Key
+  myDescription: It Glitters in the light.  Is there a door nearby?
+  isUsable: 0
+  isUnique: 0
+  numberHeld: 0

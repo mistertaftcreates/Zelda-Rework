@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{5AE0E4E9-B5CC-0B90-E566-49950E3EF1D3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Generic Components/FlashColor.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enemy/SimpleFollow.cs" Line="17" Column="88" />
+      <File FileName="Assets/Scripts/Generic Components/ResetToPosition.cs" />
+      <File FileName="Assets/Scripts/Objects/Room.cs" />
+      <File FileName="Assets/Scripts/UI/GameMenu.cs" Line="16" Column="42" />
+      <File FileName="Assets/Scripts/Generic Components/FlashColor.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zelda Project Fixed" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Enemy" expanded="True" />
+                <Node name="Game Scripts" expanded="True" />
+                <Node name="Generic Components" expanded="True">
+                  <Node name="FlashColor.cs" selected="True" />
+                </Node>
+                <Node name="Objects" expanded="True" />
+                <Node name="Player" expanded="True" />
+                <Node name="Scriptable Objects" expanded="True">
+                  <Node name="Inventory" expanded="True" />
+                </Node>
+                <Node name="UI" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="46e4417d-8e04-425b-9c09-de6a8e943e87" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
